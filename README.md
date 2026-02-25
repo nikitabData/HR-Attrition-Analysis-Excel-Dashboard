@@ -18,7 +18,7 @@ Interactive HR Attrition Analysis Dashboard built using Excel to analyze employe
 
 ## 🛠 Skills Used:
   
-Data Cleaning | Pivot Tables | Pivot Charts | Dashboard Design | Data Visualization | Slicers| HR Analytics 
+Data Cleaning | Pivot Tables | Pivot Charts | Dashboard Design | Data Visualization | Slicers | HR Analytics 
 
 ## 📁 Files Included
 - `HR Attrition Excel Project.xlsx` – Main interactive dashboard file  
